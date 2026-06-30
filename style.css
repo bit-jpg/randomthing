@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#idk {
+    background-color: white;
+    border: black 2px solid;
+    border-radius: 20px;
+    width: max-content;
+    height: max-content;
+    padding-left: 10px;
+    padding-right:  10px;
+}
